@@ -67,6 +67,7 @@ Y= A⊕B
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: MARELLA HASINI
+
  RegisterNumber: 212223240083
  
  # Code
@@ -84,6 +85,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![OUTPUT](<Output 1.png>)
  
 **Result:**
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 
